@@ -1,7 +1,9 @@
 <?php
-include 'header.php'
-?>
+$pageTitle ='Main page' ;
+include 'includes/header.php';
 
+?>
+<a href="register.php">Регистрираи се</a>
 <?php
-include 'footer.php'
+include 'includes/footer.php'
 ?>
